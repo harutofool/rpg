@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Haruto","characterIndex":0,"characterName":"Original1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"OriginalFaces1","traits":[],"initialLevel":1,"maxLevel":99,"name":"はると","nickname":"インターネット最終兵器","note":"","profile":"YouTubeで今話題の超人気配信者。\nゲーム実況、麻雀、雑談など幅広く活動中。"},
+{"id":2,"battlerName":"Aboabo","characterIndex":1,"characterName":"Original1","classId":2,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"OriginalFaces1","traits":[],"initialLevel":1,"maxLevel":99,"name":"あぼあぼ","nickname":"プロVTuberリスナー","note":"","profile":"麻雀配信におけるリスナー界のドン。\n競馬や中国語にも詳しい。"},
+{"id":3,"battlerName":"Riskey","characterIndex":2,"characterName":"Original1","classId":2,"equips":[3,0,0,0,0],"faceIndex":2,"faceName":"OriginalFaces1","traits":[],"initialLevel":1,"maxLevel":99,"name":"りすきー","nickname":"黒師無理双","note":"","profile":"#はるとふーど にいつもおいしそうな食事の写真を\nアップロードしてくれている。"},
+{"id":4,"battlerName":"Chonmage","characterIndex":3,"characterName":"Original1","classId":2,"equips":[4,0,0,0,0],"faceIndex":3,"faceName":"OriginalFaces1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ちょんまげ","nickname":"浪速の貴公子","note":"","profile":"シャーモンランとフンターフンターのことなら\nこの人に聞いてみよう。"}
+]
